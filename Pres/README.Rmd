@@ -46,17 +46,18 @@ Can see, by the presence of more green in the later bars representing more force
 4. Factors relating to both the "percieved neighborhood quality" (subjective well-being score) and the "actual neighborhood quality" (borough unemployment rate and arson crimes) scored in the top 10 as well.  
 
 **Hypothesis:**  
-The racial bias is not directly 
+The racial skew in targets is not the result of direct racism but possible profiling by neighborhood. 
 
 
 
 
 
 ## Subsequent Analysis
+**Evaluating other response variables***
 
-
-## Main Takeaways
-
+![Figure 3A: Use of force for staff med](../Fig3A.jpeg) 
+![Figure 3B: Use of force for sub med](../Fig3B.jpeg) 
+![Figure 3C: Use of force for arrest](../Fig3C.jpeg) 
 ## Additional Reading
 * [Toward a Theory of Race, Crime, and Urban Inequality](https://books.google.co.uk/books?hl=en&lr=&id=tV6MAQAAQBAJ&oi=fnd&pg=PA177&dq=Toward+a+Theory+of+Race,+Crime,+and+Urban+Inequality&ots=ErFKtjljan&sig=Ecnv8bpTfbCVtn4Fejx9NrzF9gw#v=onepage&q=Toward%20a%20Theory%20of%20Race%2C%20Crime%2C%20and%20Urban%20Inequality&f=false)
 * [Policing Ethnic Minority Communities](http://eprints.lse.ac.uk/9576/1/Policing_ethnic_minority_communities_(LSERO).pdf)
