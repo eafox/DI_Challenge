@@ -1,0 +1,33 @@
+# Comparitive Analysis of UK and US Use of Force Incidents
+
+## Available Data
+
+The main dataframe is harvested from the London Metropolitan Police Department use of force database available at the [London Datastore](). Many columns were copied directly from the table while others (such as location and subject behavior) were filled in using several columns of data from the original database. Data 
+
+
+## Fit Initial Random Forest
+
+Run a random forest model to 
+Figure 1: Relative importance of predictors  
+![Figure 1: Use of force model](../Figure1.jpeg) 
+## View histogram of responses broken up by the factor levels of the two most important predictors
+
+Figure 2A:   
+![Figure 2A](../Fig2A.jpeg) 
+Figure 2B:   
+![Figure 2B](../Fig2B.jpeg) 
+
+## Thoughts from Preliminary Analysis
+**Top 10 Important Factors for Final Attempted Tactic**
+1. Subject's Behavior
+2. Number of Tactics Attempted
+3. Relative Location
+4. Officer's Main Duty
+5. Borough
+6. Attempting to Arrest Subject
+7. Borough Unemployment Rate
+8. Number of Deliberate Fires in Borough
+9. Attempting to Search Subject
+10. Borough Subjective Well Being Score
+
+After the first round of the London Met database was published, it was widely reported that a disproportionate amount of these incidents involved black citizens. While only making up 13% of the city's population, [they were the subject of 36% of the incidents](https://www.theguardian.com/uk-news/2017/aug/01/met-police-using-force-against-disproportionately-large-number-of-black-people).
