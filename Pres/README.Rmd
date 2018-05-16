@@ -2,15 +2,13 @@
 
 ## Available Data
 
-The results presented here are harvested from the London Metropolitan Police Department use of force database available at the [London Datastore](https://data.london.gov.uk/dataset/use-of-force). Many columns were copied directly from the table while others (such as location and subject behavior) were filled in using several columns of data from the original database. Data on the perceived well-being of each borough as well as their actual crime rates was also downloaded from the Datastore and added to the main data frame *(final size: 75mb)*. 
+The results presented here are harvested from the London Metropolitan Police Department use of force database available at the [London Datastore](https://data.london.gov.uk/dataset/use-of-force). Many columns were copied directly from the table while others (such as location and subject behavior) were filled in using several columns of data from the original database. Data on the perceived well-being of each borough as well as their actual crime rates was also downloaded from the Datastore and added to the main data frame *(final size: 75mb including over 55,000 incidents from April 2017 to Feb 2018)*. 
 
 In the US, [the FBI will be releasing](https://ucr.fbi.gov/use-of-force) data semi-annually following the conclusion of their pilot study. Once this data is released, similar analysis will be conducted to compare patterns of behavior between London and a major US city. 
 
 ## Objectives
 Both the US and the UK have recently seen large-scale protests in response to incidents of police brutality, particularly involving black citizens as the targets. After the first round of the London Met database was published, it was widely reported that a disproportionate amount of these use of force incidents involved black citizens. While only making up 13% of the city's population, [they were the subject of 36% of the incidents](https://www.theguardian.com/uk-news/2017/aug/01/met-police-using-force-against-disproportionately-large-number-of-black-people).  
-The creation and release of these incident databases has actually been, in part, an attempt to determine whether these incidents are outliers or results of systematic bias. My analysis will be able to show which factors are the most important in the conscious and unconscious decision to use escalating levels of force. I will 
-
-## Application
+The creation and release of these incident databases has actually been, in part, an attempt to determine whether these incidents are outliers or results of systematic bias. My analysis will be able to show which factors are the most important in the conscious and unconscious decision to use escalating levels of force. I will then be able to compare this observed decision making process between officers in the UK who do not commonly carry firearms and those in the US who do. 
 
 ## Exploratory Models and Plots
 
@@ -49,5 +47,5 @@ Figure 2B:
 ## Main Takeaways
 
 ## Additional Reading
-[Toward a Theory of Race, Crime, and Urban Inequality](https://books.google.co.uk/books?hl=en&lr=&id=tV6MAQAAQBAJ&oi=fnd&pg=PA177&dq=Toward+a+Theory+of+Race,+Crime,+and+Urban+Inequality&ots=ErFKtjljan&sig=Ecnv8bpTfbCVtn4Fejx9NrzF9gw#v=onepage&q=Toward%20a%20Theory%20of%20Race%2C%20Crime%2C%20and%20Urban%20Inequality&f=false)
-[Policing Ethnic Minority Communities](http://eprints.lse.ac.uk/9576/1/Policing_ethnic_minority_communities_(LSERO).pdf)
+* [Toward a Theory of Race, Crime, and Urban Inequality](https://books.google.co.uk/books?hl=en&lr=&id=tV6MAQAAQBAJ&oi=fnd&pg=PA177&dq=Toward+a+Theory+of+Race,+Crime,+and+Urban+Inequality&ots=ErFKtjljan&sig=Ecnv8bpTfbCVtn4Fejx9NrzF9gw#v=onepage&q=Toward%20a%20Theory%20of%20Race%2C%20Crime%2C%20and%20Urban%20Inequality&f=false)
+* [Policing Ethnic Minority Communities](http://eprints.lse.ac.uk/9576/1/Policing_ethnic_minority_communities_(LSERO).pdf)
