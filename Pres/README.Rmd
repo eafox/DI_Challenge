@@ -13,17 +13,9 @@ The creation and release of these incident databases has actually been, in part,
 ## Exploratory Models and Plots
 
 Run a random forest model to 
-OOB Error Rate: 
-Figure 1: Relative importance of predictors  
+OOB Error Rate: 37.04%
+Figure 1: Relative importance of predictors    
 ![Figure 1: Use of force model](../Figure1.jpeg) 
-## View histogram of responses broken up by the factor levels of the two most important predictors
-
-Figure 2A:   
-![Figure 2A](../Fig2A.jpeg) 
-Figure 2B:   
-![Figure 2B](../Fig2B.jpeg) 
-
-## Thoughts from Preliminary Analysis
 **Top 10 Important Factors for Final Attempted Tactic**
 1. Subject's Behavior
 2. Number of Tactics Attempted
@@ -34,7 +26,20 @@ Figure 2B:
 7. Borough Unemployment Rate
 8. Number of Deliberate Fires in Borough
 9. Attempting to Search Subject
-10. Borough Subjective Well Being Score
+10. Borough Subjective Well Being Score  
+
+## View histogram of responses broken up by the factor levels of the two most important predictors
+
+Figure 2A:   
+![Figure 2A](../Fig2A.jpeg)  
+Can see that, in cases where unarmed skills or more serious responses are used, aggressive and serious or aggravated resistance on the part of the subject is present. This confirms the level of force is somewhat proportional to the subject's behavior.   
+
+Figure 2B:   
+![Figure 2B](../Fig2B.jpeg)  
+
+Can see, by the presence of more green in the later bars representing more forceful tactics, that more responses are tried before resorting to a more extreme tactic than a less extreme one. In other words, less extreme tactics are tried first instead of immediately jumping to the level of force the subject is exhibiting. 
+
+## Thoughts from Preliminary Analysis
 
 
 
