@@ -37,14 +37,20 @@ Can see that, in cases where unarmed skills or more serious responses are used, 
 Figure 2B:   
 ![Figure 2B](../Fig2B.jpeg)  
 
-Can see, by the presence of more green in the later bars representing more forceful tactics, that more responses are tried before resorting to a more extreme tactic than a less extreme one. In other words, less extreme tactics are tried first instead of immediately jumping to the level of force the subject is exhibiting. 
+Can see, by the presence of more green in the later bars representing more forceful tactics, that more responses are tried before resorting to a more extreme tactic than a less extreme one. In other words, less extreme tactics are tried first instead of immediately jumping to the level of force the subject is exhibiting. This would be in keeping with the [National Decision Model](https://www.app.college.police.uk/app-content/national-decision-model/the-national-decision-model/) taught at police academies in the country. 
 
 ## Thoughts from Preliminary Analysis
+1. As expected, subject's behavior is the most important factor with other tactics being tried before resorting to force.
+2. Subject's percieved ethnicity did not come up in the 30 most important factors. 
+3. However location and borough were in the top 10, suggesting where the incident takes place is important.
+4. Factors relating to both the "percieved neighborhood quality" (subjective well-being score) and the "actual neighborhood quality" (borough unemployment rate and arson crimes) scored in the top 10 as well.  
+
+**Hypothesis:**  
+The racial bias is not directly 
 
 
 
 
-[process](https://www.app.college.police.uk/app-content/national-decision-model/the-national-decision-model/)
 
 ## Subsequent Analysis
 
